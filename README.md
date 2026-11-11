@@ -337,3 +337,12 @@ We now have a [paper](https://aclanthology.org/2020.emnlp-demos.6/) you can cite
     pages = "38--45"
 }
 ```
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [huggingface/transformers](https://github.com/huggingface/transformers), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: Apache License 2.0 (mantida sem alterações).
+
+**Fonte original:** https://github.com/huggingface/transformers
